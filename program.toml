@@ -1,46 +1,213 @@
-name = "Sexy program"
-description = "Just a test ma man"
+name = "All For One"
 
-[[weeks]]
-week = 1
+[[blocks]]
+name = "Day 1 - Legs"
+description = "Workout focused on leg muscles"
 
-  [[weeks.blocks]]
-  name = "Heavy Day"
-  description = "Max effort day"
+[[blocks.exercises]]
+name = "High Bar Squat (Barbell)"
+sets = 4
+reps = ["5-10"]
+notes = "Squat with the bar positioned on the upper back"
 
-    [[weeks.blocks.exercises]]
-    name = "Back Squat"
-    sets = 3
-    reps = ["5", "6-10", "15"]
-    target_rpe = [8.0, 9.0, 10.0]
-    notes = "Work up to heavy set"
-    program_1rm = 150.0
+[[blocks.exercises]]
+name = "Stiff Leg Deadlift"
+sets = 3
+reps = ["6-12"]
+notes = "Deadlift with straight legs to target the hamstrings"
 
-    [[weeks.blocks.exercises]]
-    name = "Bench Press"
-    sets = 3
-    reps = ["5", "5", "5"]
-    target_rm_percent = [95.0, 75.0, 85.0]
-    program_1rm = 110.0
+[[blocks.exercises]]
+name = "Lying Leg Curl"
+sets = 4
+reps = ["6-12"]
+notes = "Leg curl exercise using a lying machine"
 
-[[weeks]]
-week = 2
+[[blocks.exercises]]
+name = "Hip Adductor (Machine)"
+sets = 4
+reps = ["10-15"]
+notes = "Hip adduction exercise using a machine"
 
-  [[weeks.blocks]]
-  name = "Heavy Day"
-  description = "Max effort day"
+[[blocks.exercises]]
+name = "Single Leg Press"
+sets = 2
+reps = ["10-20"]
+notes = "Leg press exercise performed one leg at a time"
 
-    [[weeks.blocks.exercises]]
-    name = "Back Squat"
-    sets = 3
-    reps = ["5", "6-10", "15"]
-    target_rpe = [8.0, 9.0, 10.0]
-    notes = "Work up to heavy set"
-    program_1rm = 150.0
+[[blocks.exercises]]
+name = "Standing Calf Raise"
+sets = 5
+reps = ["10-20"]
+notes = "Calf raise exercise performed while standing"
 
-    [[weeks.blocks.exercises]]
-    name = "Bench Press"
-    sets = 3
-    reps = ["5", "5", "5"]
-    target_rm_percent = [97.0, 75.0, 85.0]
-    program_1rm = 110.0
+[[blocks]]
+name = "Day 2 - Back & Biceps"
+description = "Workout focused on back and biceps muscles"
+
+[[blocks.exercises]]
+name = "Lat Pulldown (Cable)"
+sets = 4
+reps = ["8-12"]
+notes = "Pulldown exercise using a cable machine"
+
+[[blocks.exercises]]
+name = "Triangle Bar Low Row"
+sets = 4
+reps = ["10-15"]
+notes = "Seated row using a triangle bar handle"
+
+[[blocks.exercises]]
+name = "Pull-Up"
+sets = 4
+reps = ["6-12"]
+notes = "Pulling the body upward using a bar"
+
+[[blocks.exercises]]
+name = "Overhead Press (Machine)"
+sets = 3
+reps = ["5-10"]
+notes = "Pressing a barbell overhead to work the shoulders"
+
+[[blocks.exercises]]
+name = "Lateral Raise (Dumbbell)"
+sets = 4
+reps = ["10-15"]
+notes = "Raising dumbbells to the sides to target the lateral deltoids"
+
+[[blocks.exercises]]
+name = "Biceps Curl (Dumbbell)"
+sets = 3
+reps = ["8-15"]
+notes = "Curling dumbbells to work the biceps"
+
+[[blocks.exercises]]
+name = "Triceps Pushdown (Cable)"
+sets = 4
+reps = ["10-15"]
+notes = "Triceps extension exercise using a cable machine"
+
+[[blocks]]
+name = "Day 3 - Legs (Variation)"
+description = "Second leg workout with variations"
+
+[[blocks.exercises]]
+name = "Deadlift (Barbell)"
+sets = 4
+reps = ["5-10"]
+notes = "Lifting a barbell from the ground to a standing position"
+
+[[blocks.exercises]]
+name = "Leg Press"
+sets = 4
+reps = ["5-10"]
+notes = "Pressing weight using the legs on a leg press machine"
+
+[[blocks.exercises]]
+name = "Leg Extension (Machine)"
+sets = 4
+reps = ["8-15"]
+notes = "Leg extension exercise using a machine"
+
+[[blocks.exercises]]
+name = "Hip Thrust (Machine)"
+sets = 4
+reps = ["5-10"]
+notes = "Glute-focused thrust movement using a machine"
+
+[[blocks.exercises]]
+name = "Standing Calf Raise"
+sets = 3
+reps = ["10-20"]
+notes = "Calf raise exercise performed while standing"
+
+[[blocks]]
+name = "Day 4 - Chest & Shoulders"
+description = "Workout focused on chest and shoulder muscles"
+
+[[blocks.exercises]]
+name = "Flat Bench Press (Barbell)"
+sets = 4
+reps = ["5-10"]
+notes = "Bench press performed on a flat bench with a barbell"
+
+[[blocks.exercises]]
+name = "Incline Bench Press (Dumbbell)"
+sets = 3
+reps = ["6-12"]
+notes = "Bench press performed on an incline bench with dumbbells"
+
+[[blocks.exercises]]
+name = "Triangle Bar Low Row"
+sets = 3
+reps = ["5-10"]
+notes = "Seated row exercise with a triangle bar handle"
+
+[[blocks.exercises]]
+name = "Chest Fly (Machine)"
+sets = 3
+reps = ["8-15"]
+notes = "Chest fly exercise using a machine"
+
+[[blocks.exercises]]
+name = "Lateral Raise (Dumbbell)"
+sets = 4
+reps = ["10-15"]
+notes = "Raising dumbbells to the sides to target the lateral deltoids"
+
+[[blocks.exercises]]
+name = "Hammer Curl (Dumbbell)"
+sets = 4
+reps = ["10-15"]
+notes = "Curling dumbbells with a neutral grip to target the brachialis"
+
+[[blocks.exercises]]
+name = "Triceps Pushdown (Cable)"
+sets = 4
+reps = ["10-15"]
+notes = "Triceps extension exercise using a cable machine"
+
+[[blocks]]
+name = "Day 5 - Arms"
+description = "Workout focused on arms with biceps and triceps exercises"
+
+[[blocks.exercises]]
+name = "Triceps Dip"
+sets = 4
+reps = ["8-12"]
+notes = "Bodyweight exercise targeting the triceps"
+
+[[blocks.exercises]]
+name = "Pull-Up"
+sets = 4
+reps = ["6-12"]
+notes = "Pulling the body upward using a bar"
+
+[[blocks.exercises]]
+name = "Triceps Pushdown (Cable)"
+sets = 4
+reps = ["10-15"]
+notes = "Triceps extension exercise using a cable machine"
+
+[[blocks.exercises]]
+name = "Hammer Curl (Dumbbell)"
+sets = 4
+reps = ["10-15"]
+notes = "Cable variation of the hammer curl for brachialis development"
+
+[[blocks.exercises]]
+name = "Skull Crusher"
+sets = 3
+reps = ["10-15"]
+notes = "Lying triceps extension with a barbell or dumbbells"
+
+[[blocks.exercises]]
+name = "Preacher Curl (Barbell)"
+sets = 4
+reps = ["10-15"]
+notes = "Biceps curl performed on a preacher bench with a barbell"
+
+[[blocks.exercises]]
+name = "Pronation Twists"
+sets = 4
+reps = ["15-20"]
+notes = "Forearm rotation exercise to strengthen wrist muscles"

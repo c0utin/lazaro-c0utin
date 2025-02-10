@@ -1,60 +1,209 @@
 [[exercise]]
-name = "Back Squat"
-description = "Full depth barbell back squat"
+name = "High Bar Squat (Barbell)"
+description = "Squat with the bar positioned on the upper back"
+primary_muscle = "Legs"
+
+[[exercise]]
+name = "Stiff Leg Deadlift"
+description = "Deadlift with straight legs to target the hamstrings"
+primary_muscle = "Hamstrings"
+
+[[exercise]]
+name = "Lying Leg Curl"
+description = "Leg curl exercise using a lying machine"
+primary_muscle = "Hamstrings"
+
+[[exercise]]
+name = "Hip Adductor (Machine)"
+description = "Hip adduction exercise using a machine"
+primary_muscle = "Adductors"
+
+[[exercise]]
+name = "Hip thrust (Machine)"
+description = "For my wife"
+primary_muscle = "Legs"
+
+[[exercise]]
+name = "Single Leg Press"
+description = "Leg press exercise performed one leg at a time"
+primary_muscle = "Legs"
+
+[[exercise]]
+name = "Leg Press"
+description = "Leg press exercise"
+primary_muscle = "Legs"
+
+[[exercise]]
+name = "Standing Calf Raise"
+description = "Calf raise exercise performed while standing"
+primary_muscle = "Calves"
+
+[[exercise]]
+name = "Leg Raise (Captain's Chair)"
+description = "Leg raise exercise performed on a captain's chair apparatus"
+primary_muscle = "Abdominals"
+
+[[exercise]]
+name = "Flat Bench Press (Barbell)"
+description = "Bench press performed on a flat bench with a barbell"
+primary_muscle = "Chest"
+
+[[exercise]]
+name = "Incline Bench Press (Dumbbell)"
+description = "Bench press performed on an incline bench with dumbbells"
+primary_muscle = "Chest"
+
+[[exercise]]
+name = "Incline Bench Press (Machine)"
+description = "Bench press performed on an incline bench with machine"
+primary_muscle = "Chest"
+
+[[exercise]]
+name = "Chest Fly (Machine)"
+description = "Chest fly exercise using a machine"
+primary_muscle = "Chest"
+
+[[exercise]]
+name = "Overhead Press (Barbell)"
+description = "Pressing a barbell overhead to work the shoulders"
+primary_muscle = "Shoulders"
+
+[[exercise]]
+name = "Overhead Press (Machine)"
+description = "Pressing a machine overhead to work the shoulders"
+primary_muscle = "Shoulders"
+
+[[exercise]]
+name = "Lateral Raise (Dumbbell)"
+description = "Raising dumbbells to the sides to target the lateral deltoids"
+primary_muscle = "Shoulders"
+
+[[exercise]]
+name = "Triceps Pushdown (Cable)"
+description = "Triceps extension exercise using a cable machine"
+primary_muscle = "Triceps"
+
+[[exercise]]
+name = "Skull Crusher"
+description = "poggers"
+primary_muscle = "Triceps"
+
+[[exercise]]
+name = "Deadlift (Barbell)"
+description = "Lifting a barbell from the ground to a standing position"
+primary_muscle = "Back"
+
+[[exercise]]
+name = "Pull-Up"
+description = "Pulling the body upward using a bar"
+primary_muscle = "Back"
+
+[[exercise]]
+name = "Bent Over Row (Barbell)"
+description = "Rowing a barbell while bent over to target the back muscles"
+primary_muscle = "Back"
+
+[[exercise]]
+name = "Seated Row (Cable)"
+description = "Rowing exercise performed on a seated cable machine"
+primary_muscle = "Back"
+
+[[exercise]]
+name = "Face Pull (Cable)"
+description = "Pulling a cable towards the face to target the rear deltoids and upper back"
+primary_muscle = "Shoulders"
+
+[[exercise]]
+name = "Biceps Curl (Dumbbell)"
+description = "Curling dumbbells to work the biceps"
+primary_muscle = "Biceps"
+
+[[exercise]]
+name = "Biceps Curl (Cable)"
+description = "Curling cable to work the biceps"
+primary_muscle = "Biceps"
+
+[[exercise]]
+name = "Hammer Curl (Dumbbell)"
+description = "Curling dumbbells with a neutral grip to target the brachialis"
+primary_muscle = "Biceps"
+
+[[exercise]]
+name = "Leg Extension (Machine)"
+description = "Leg extension exercise using a machine"
 primary_muscle = "Quadriceps"
 
 [[exercise]]
-name = "Bench Press"
-description = "Flat bench barbell press"
+name = "Hip Abductor (Machine)"
+description = "Hip abduction exercise using a machine"
+primary_muscle = "Abductors"
+
+[[exercise]]
+name = "Calf Press (Leg Press Machine)"
+description = "Calf exercise performed on a leg press machine"
+primary_muscle = "Calves"
+
+[[exercise]]
+name = "Hanging Leg Raise"
+description = "Leg raise exercise performed while hanging from a bar"
+primary_muscle = "Abdominals"
+
+[[exercise]]
+name = "Incline Bench Press (Barbell)"
+description = "Bench press performed on an incline bench with a barbell"
 primary_muscle = "Chest"
 
 [[exercise]]
-name = "Incline Bench Press"
-description = "Incline bench barbell press"
-primary_muscle = "Chest"
+name = "Arnold Press (Dumbbell)"
+description = "Overhead press variation with dumbbells involving rotation"
+primary_muscle = "Shoulders"
 
 [[exercise]]
-name = "Close-Grip Bench Press"
-description = "Close grip bench barbell press"
-primary_muscle = "Chest"
+name = "Rear Delt Fly (Dumbbell)"
+description = "Fly exercise targeting the rear deltoids using dumbbells"
+primary_muscle = "Shoulders"
 
 [[exercise]]
-name = "Deadlift"
-description = "Conventional barbell deadlift"
-primary_muscle = "Posterior Chain"
-
-[[exercise]]
-name = "Weighted Pull-Up"
-primary_muscle = "Back"
-
-[[exercise]]
-name = "BW Pull-Up"
-primary_muscle = "Back"
-
-[[exercise]]
-name = "Incline Chest Press"
-primary_muscle = "Chest"
-
-[[exercise]]
-name = "Chest Supported Row"
-primary_muscle = "Back"
-
-[[exercise]]
-name = "Barbell JM Press"
+name = "Triceps Dip"
+description = "Bodyweight exercise targeting the triceps"
 primary_muscle = "Triceps"
 
 [[exercise]]
-name = "EZ Bar Preacher Curl"
+name = "Bent Over Row (Dumbbell)"
+description = "Rowing dumbbells while bent over to target the back muscles"
+primary_muscle = "Back"
+
+[[exercise]]
+name = "Lat Pulldown (Cable)"
+description = "Pulling a cable bar down towards the chest to target the lats"
+primary_muscle = "Back"
+
+[[exercise]]
+name = "T-Bar Row"
+description = "Rowing a barbell using a T-bar attachment to target the back"
+primary_muscle = "Back"
+
+[[exercise]]
+name = "Single Arm Row (Dumbbell)"
+description = "Rowing a dumbbell with one arm to target the back muscles"
+primary_muscle = "Back"
+
+[[exercise]]
+name = "Shrug (Barbell)"
+description = "Lifting the shoulders upward while holding a barbell to target the traps"
+primary_muscle = "Trapezius"
+
+[[exercise]]
+name = "Preacher Curl (Barbell)"
+description = "Biceps curl performed on a preacher bench with a barbell"
 primary_muscle = "Biceps"
 
 [[exercise]]
-name = "Cable Tricep Pushdown"
-primary_muscle = "Triceps"
+name = "Triangle Bar Low Row"
+description = "Cable low row machibe"
+primary_muscle = "Back"
 
 [[exercise]]
-name = "Dumbbell Hammer Curl"
-primary_muscle = "Biceps"
-
-[[exercise]]
-name = "Reverse Dumbbell Wrist Curl"
+name = "Pronation Twists"
+description = "Forearms"
 primary_muscle = "Forearms"
