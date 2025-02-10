@@ -1,7 +1,7 @@
 name = "All For One"
 
 [[blocks]]
-name = "Day 1 - Legs"
+name = "1"
 description = "Workout focused on leg muscles"
 
 [[blocks.exercises]]
@@ -41,7 +41,7 @@ reps = ["10-20"]
 notes = "Calf raise exercise performed while standing"
 
 [[blocks]]
-name = "Day 2 - Back & Biceps"
+name = "2"
 description = "Workout focused on back and biceps muscles"
 
 [[blocks.exercises]]
@@ -87,7 +87,7 @@ reps = ["10-15"]
 notes = "Triceps extension exercise using a cable machine"
 
 [[blocks]]
-name = "Day 3 - Legs (Variation)"
+name = "3"
 description = "Second leg workout with variations"
 
 [[blocks.exercises]]
@@ -121,7 +121,7 @@ reps = ["10-20"]
 notes = "Calf raise exercise performed while standing"
 
 [[blocks]]
-name = "Day 4 - Chest & Shoulders"
+name = "4"
 description = "Workout focused on chest and shoulder muscles"
 
 [[blocks.exercises]]
@@ -167,7 +167,7 @@ reps = ["10-15"]
 notes = "Triceps extension exercise using a cable machine"
 
 [[blocks]]
-name = "Day 5 - Arms"
+name = "5"
 description = "Workout focused on arms with biceps and triceps exercises"
 
 [[blocks.exercises]]
